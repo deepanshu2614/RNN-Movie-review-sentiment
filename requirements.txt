@@ -1,5 +1,5 @@
 pip==25.1.1
-tensorflow-macos==2.15.0
+tensorflow==2.15.0
 pandas 
 numpy 
 scikit-learn
